@@ -1,2 +1,2 @@
 # rpi_eSPI
-Implement Enhance SPI (eSPI) algorithm on Respberry Pi
+Try to implement Enhance SPI (eSPI) algorithm on Respberry Pi
